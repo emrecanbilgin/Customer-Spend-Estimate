@@ -20,6 +20,7 @@ In this data set, our dependent variable is the Amount of Expenditure, and our i
 In other words, we will examine the amount of customer spending that varies depending on City Population, Total Spend, Ad Clicks and average time spent on the Internet. To examine this with multiple linear regression, our dataset has to provide some assumptions. These assumptions are as follows.
 
 ASSUMPTIONS
+
 • Linear Relationship Assumption
 • Assumption of Independence
 • Normality Assumption
