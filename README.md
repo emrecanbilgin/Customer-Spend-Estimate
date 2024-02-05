@@ -27,3 +27,5 @@ ASSUMPTIONS
 
 To examine the linear relationship assumption, we can look at the scatter-plot plots of the dependent variable with each independent variable and see if it is in a linear relationship.
 For the independence assumption, we will examine the correlation between the independent variables. The correlation shows the relationship between two variables and the strength of this relationship. If there is a very strong relationship between the two independent variables, this will break our assumption.
+For the Normalty Assumption we will use proper Statistical tests.
+You can reach the code in this reposority and look into report i create.
